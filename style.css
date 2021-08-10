@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(255, 238, 0, 0.055);
+text-align: center;
+padding: 40px; ;
+}
+
+
+h2{
+    color: rgba(181, 193, 202, 0.801);
+padding: 10px;
+font-size: 50px;
+}
+
+
+h2{
+    color: rgb(118, 34, 121);
+padding: 20px;
+
+
+}
+
+
+
+p{
+    font-size: 25px;
+padding: 40px;
+
+}
+
+img{
+    border:5px solid rgb(0, 0, 0);
+border-radius: 10px;
+height: 300px;
+width: 300px;
+
+}
+
+
+h1{
+font-size: 100px;
+padding: 50px;
+color: rgb(37, 24, 49);
+
+
+}
+
+
+
+
+
+
+
+
+
